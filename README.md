@@ -1,4 +1,4 @@
-# App-con-LLM-Langchain-y-OpenAI-
+# App-con-LLM-Langchain-y-OpenAI
 App de prueba usando LLM con #Langchain y #OpenAI
 Generador de nombres para empresas usando el  modulo PrompTemplate y 
 	renderizada muy básicamente con #Streamlit.
